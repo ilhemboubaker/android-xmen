@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TYPE-array android:name="IDENTIFIANT">
+        <item>valeur 0</item>
+        <item>valeur 1</item>
+        <item>valeur 2</item>
+
+    </TYPE-array>
+
+
+</LinearLayout>
+
+
